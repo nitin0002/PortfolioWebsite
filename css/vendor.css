@@ -1,21 +1,4 @@
-/**
- * =================================================================== 
- *
- *  Kards v1.0 Vendor/Third Party CSS 
- *  url: styleshout.com
- *  03-01-2016
- *  ------------------------------------------------------------------
- *  TOC:
- *  01. Core Owl Carousel CSS File
- *  02. Magnific Popup CSS
- *
- * =================================================================== 
- */
 
-/* 
- *  01. Core Owl Carousel CSS File
- *	 v1.3.3
- */
 
 /* clearfix */
 .owl-carousel .owl-wrapper:after {
@@ -81,10 +64,7 @@
 	-ms-transform: translate3d(0, 0, 0);
 }
 
-/* 
- *  Owl Carousel CSS3 Transitions 
- *  v1.3.2
- */
+
 .owl-origin {
 	-webkit-perspective: 1200px;
 	-webkit-perspective-origin-x: 50%;
